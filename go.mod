@@ -52,14 +52,15 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/golang/mock v1.3.1
 	github.com/golang/protobuf v1.3.2
+	github.com/hashicorp/vault/api v1.0.4
 	github.com/imdario/mergo v0.3.8
 	github.com/kubernetes-incubator/custom-metrics-apiserver v0.0.0-20190918110929-3d9be26a50eb
 	github.com/lib/pq v1.3.0
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/operator-framework/operator-sdk v0.0.0-00010101000000-000000000000
 	github.com/pkg/errors v0.8.1
-	github.com/spf13/pflag v1.0.5
 	github.com/robfig/cron/v3 v3.0.1
+	github.com/spf13/pflag v1.0.5
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
 	github.com/stretchr/testify v1.4.0
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
